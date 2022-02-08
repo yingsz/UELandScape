@@ -1,0 +1,11 @@
+Binaries
+DerivedDataCache
+Intermediate
+OutPut
+*.xcworkspace
+Saved
+.vs/
+*.opendb
+*.db
+Build/
+*.sln
